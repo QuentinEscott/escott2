@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The SCCM blog of Quentin Escott</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on The SCCM blog of Quentin Escott</description>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 May 2022 23:09:02 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/my-first-post/</link>
+      <pubDate>Sat, 07 May 2022 23:09:02 +1000</pubDate>
+      <guid>http://localhost:1313/my-first-post/</guid>
+      <description>&lt;p&gt;I thought it would be apt for my first SCCM post to talk about the first Microsoft KB that me and my team had created.
+It was &lt;a href=&#34;https://support.microsoft.com/en-au/help/4465865/software-updates-do-not-download-in-configmgr-if-wsus-is-disconnected&#34;&gt;KB4465865&lt;/a&gt;.
+We were upto date with our SCCM install (Current Branch 1806) so we were able to get the Microsft engineering team to make a hot fix for us. It took many hours on the phone.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

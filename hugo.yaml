@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://www.escott.com.au/
 languageCode: en-us
-title: My New Hugo Site
+title: The SCCM blog of Quentin Escott
 theme: ["PaperMod"]
